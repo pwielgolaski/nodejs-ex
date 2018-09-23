@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "pre run - init"
+exec $STI_SCRIPTS_PATH/run
+
